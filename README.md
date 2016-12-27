@@ -1,5 +1,5 @@
 # Product-Viewer
-This program can be used to view the results for any search results on the system for further reference.
+This program can be used to view the results for any search results on the system on various Websites.
 This program searches for a product on sites like :
 
  1)Amazon
