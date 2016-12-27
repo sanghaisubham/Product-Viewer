@@ -17,3 +17,5 @@ This program searches for a product on sites like :
  7)Junglee
  
  Instructions : Download the Python Code, Run the program and input the Product name.The product webpages of the various sites    mentioned above wil be opened
+ 
+Tech Used: Pyton 2.7 + Selenium 
